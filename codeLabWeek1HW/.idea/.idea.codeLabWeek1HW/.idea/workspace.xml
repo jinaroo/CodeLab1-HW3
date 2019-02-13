@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0947ca80-0784-4a73-8915-0f1ddd3d00cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.codeLabWeek1HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.codeLabWeek1HW/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/playerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <marker date="1548943703774" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548943703774" expanded="true" signature="125:1173" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="436:478" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="533:1171" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="639:667" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="697:725" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="755:783" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="814:842" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="950:1029" ph="{...}" />
+                <marker date="1548943703774" expanded="true" signature="1110:1168" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/velocityPlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-169">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <marker date="1549835753423" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549835753423" expanded="true" signature="133:3791" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="661:758" ph="/* left and right controls are controlled using input.getaxis (see line 29-32) ... */" />
+                <marker date="1549835753423" expanded="true" signature="1406:1456" ph="/* public Vector3 playerPosition; ... */" />
+                <marker date="1549835753423" expanded="true" signature="1657:1711" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="1769:2728" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="1787:1941" ph="/* playerPosition = new Vector3(rb.transform.position.x, rb.transform.position.y, transform.position.z); ... */" />
+                <marker date="1549835753423" expanded="true" signature="2137:2402" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="2505:2721" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="2780:3789" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="3161:3260" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="3278:3404" ph="/* adding gravity force when player falls after jumping (referred to youtube tutorial) ... */" />
+                <marker date="1549835753423" expanded="true" signature="3435:3556" ph="{...}" />
+                <marker date="1549835753423" expanded="true" signature="3659:3783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/goodStarController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1549221010319" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549221010319" expanded="true" signature="127:332" ph="{...}" />
+                <marker date="1549221010319" expanded="true" signature="170:330" ph="{...}" />
+                <marker date="1549221010319" expanded="true" signature="207:301" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/badStarController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <marker date="1549221055272" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549221055272" expanded="true" signature="126:379" ph="{...}" />
+                <marker date="1549221055272" expanded="true" signature="172:377" ph="{...}" />
+                <marker date="1549221055272" expanded="true" signature="218:333" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameraController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+              <folding>
+                <marker date="1549994509578" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549994509578" expanded="true" signature="125:1353" ph="{...}" />
+                <marker date="1549994509578" expanded="true" signature="585:606" ph="{...}" />
+                <marker date="1549994509578" expanded="true" signature="664:1351" ph="{...}" />
+                <marker date="1549994509578" expanded="true" signature="965:1088" ph="{...}" />
+                <marker date="1549994509578" expanded="true" signature="1101:1224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/spawner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+              <folding>
+                <marker date="1549834702591" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549834702591" expanded="true" signature="117:833" ph="{...}" />
+                <marker date="1549834702591" expanded="true" signature="167:308" ph="{...}" />
+                <marker date="1549834702591" expanded="true" signature="331:572" ph="{...}" />
+                <marker date="1549834702591" expanded="true" signature="594:831" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>game</find>
+      <find>score</find>
+      <find>rigid</find>
+      <find>...</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/goodStarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/cameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/velocityPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/badStarController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/scoreUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/playerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/newPlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/urchinController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/fishController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/starController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/badStarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/jumpGravityController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/velocityPlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/cameraController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="30" />
+    <option name="width" value="1153" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0947ca80-0784-4a73-8915-0f1ddd3d00cc" name="Default Changelist" comment="" />
+      <created>1548871827447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548871827447</updated>
+      <workItem from="1548871832723" duration="1683000" />
+      <workItem from="1548882530782" duration="267000" />
+      <workItem from="1548940430904" duration="2931000" />
+      <workItem from="1549046606725" duration="2225000" />
+      <workItem from="1549212921084" duration="490000" />
+      <workItem from="1549213449228" duration="3473000" />
+      <workItem from="1549217803926" duration="3568000" />
+      <workItem from="1549222025066" duration="228000" />
+      <workItem from="1549300119478" duration="785000" />
+      <workItem from="1549303305298" duration="399000" />
+      <workItem from="1549303856042" duration="385000" />
+      <workItem from="1549304656500" duration="63000" />
+      <workItem from="1549304744424" duration="43000" />
+      <workItem from="1549304849459" duration="255000" />
+      <workItem from="1549305258224" duration="38000" />
+      <workItem from="1549310598429" duration="10000" />
+      <workItem from="1549310620167" duration="8000" />
+      <workItem from="1549310682283" duration="100000" />
+      <workItem from="1549310787518" duration="8000" />
+      <workItem from="1549827310574" duration="52000" />
+      <workItem from="1549827409071" duration="5509000" />
+      <workItem from="1549833438972" duration="1412000" />
+      <workItem from="1549835145033" duration="949000" />
+      <workItem from="1549908025782" duration="684000" />
+      <workItem from="1549994146066" duration="340000" />
+      <workItem from="1550003929878" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="edited velocityPlayerController script: moved physics into fixedupdate and added jumpTimeCounter">
+      <created>1549829860256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549829860256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edited velocityPlayerController script: removed jumpTimeCounter stuff">
+      <created>1549831178145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549831178145</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added new script (jumpGravityController) and edited velocityPlayerController (changed gameObject.GetComponent&lt;Rigidbody2D&gt;() to just rb to make code look neater)">
+      <created>1549831875510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549831875510</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deleted gravity script and moved gravity code into velocityPlayerController script">
+      <created>1549832696527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549832696527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added cameraController script">
+      <created>1549832883156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549832883156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="attached ui to camera and updated camera so that it follows the player">
+      <created>1549834216266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549834216266</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated main scene and added more cloud platforms">
+      <created>1549834623402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549834623402</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edited spawner script to have stars spawn every 5 seconds instead of 3 seconds">
+      <created>1549834670545</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549834670545</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edit spawn range">
+      <created>1549834751791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549834751791</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added more cloud platforms">
+      <created>1549835040196</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1549835040196</updated>
+    </task>
+    <task id="LOCAL-00011" summary="edited offset for winner/loser text">
+      <created>1549836204411</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549836204411</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25946000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="30" width="1153" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18181819" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827324" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited velocityPlayerController script: moved physics into fixedupdate and added jumpTimeCounter" />
+    <MESSAGE value="edited velocityPlayerController script: removed jumpTimeCounter stuff" />
+    <MESSAGE value="added new script (jumpGravityController) and edited velocityPlayerController (changed gameObject.GetComponent&lt;Rigidbody2D&gt;() to just rb to make code look neater)" />
+    <MESSAGE value="deleted gravity script and moved gravity code into velocityPlayerController script" />
+    <MESSAGE value="added cameraController script" />
+    <MESSAGE value="attached ui to camera and updated camera so that it follows the player" />
+    <MESSAGE value="updated main scene and added more cloud platforms" />
+    <MESSAGE value="edited spawner script to have stars spawn every 5 seconds instead of 3 seconds" />
+    <MESSAGE value="edit spawn range" />
+    <MESSAGE value="added more cloud platforms" />
+    <MESSAGE value="edited offset for winner/loser text" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited offset for winner/loser text" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scoreUI.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/newPlayerController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/fishController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/urchinController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/starController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/jumpGravityController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/playerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <marker date="1548943703774" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548943703774" expanded="true" signature="125:1173" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="436:478" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="533:1171" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="639:667" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="697:725" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="755:783" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="814:842" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="950:1029" ph="{...}" />
+            <marker date="1548943703774" expanded="true" signature="1110:1168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/goodStarController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549221010319" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549221010319" expanded="true" signature="127:332" ph="{...}" />
+            <marker date="1549221010319" expanded="true" signature="170:330" ph="{...}" />
+            <marker date="1549221010319" expanded="true" signature="207:301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/badStarController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1549221055272" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549221055272" expanded="true" signature="126:379" ph="{...}" />
+            <marker date="1549221055272" expanded="true" signature="172:377" ph="{...}" />
+            <marker date="1549221055272" expanded="true" signature="218:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/spawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+          <folding>
+            <marker date="1549834702591" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549834702591" expanded="true" signature="117:833" ph="{...}" />
+            <marker date="1549834702591" expanded="true" signature="167:308" ph="{...}" />
+            <marker date="1549834702591" expanded="true" signature="331:572" ph="{...}" />
+            <marker date="1549834702591" expanded="true" signature="594:831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding>
+            <marker date="1549994509578" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549994509578" expanded="true" signature="125:1353" ph="{...}" />
+            <marker date="1549994509578" expanded="true" signature="585:606" ph="{...}" />
+            <marker date="1549994509578" expanded="true" signature="664:1351" ph="{...}" />
+            <marker date="1549994509578" expanded="true" signature="965:1088" ph="{...}" />
+            <marker date="1549994509578" expanded="true" signature="1101:1224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/velocityPlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1549835753423" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549835753423" expanded="true" signature="133:3791" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="661:758" ph="/* left and right controls are controlled using input.getaxis (see line 29-32) ... */" />
+            <marker date="1549835753423" expanded="true" signature="1406:1456" ph="/* public Vector3 playerPosition; ... */" />
+            <marker date="1549835753423" expanded="true" signature="1657:1711" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="1769:2728" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="1787:1941" ph="/* playerPosition = new Vector3(rb.transform.position.x, rb.transform.position.y, transform.position.z); ... */" />
+            <marker date="1549835753423" expanded="true" signature="2137:2402" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="2505:2721" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="2780:3789" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="3161:3260" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="3278:3404" ph="/* adding gravity force when player falls after jumping (referred to youtube tutorial) ... */" />
+            <marker date="1549835753423" expanded="true" signature="3435:3556" ph="{...}" />
+            <marker date="1549835753423" expanded="true" signature="3659:3783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
