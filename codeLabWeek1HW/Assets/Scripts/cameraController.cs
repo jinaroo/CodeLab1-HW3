@@ -7,7 +7,7 @@ public class cameraController : MonoBehaviour
     //add this script to the camera
     public GameObject player; //don't forget to attach player game object
     //public float offsetX; //unnecessary here because i want player game object to always be in the center
-    public float offsetY; //bumps up camera slightly higherthan where the player game object is
+    public float offsetY; //bumps up camera slightly higher than where the player game object is
     public Vector3 playerPosition;
     public float offsetSmoothing;
     
