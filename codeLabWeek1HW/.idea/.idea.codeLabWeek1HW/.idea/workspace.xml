@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0947ca80-0784-4a73-8915-0f1ddd3d00cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.codeLabWeek1HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.codeLabWeek1HW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.codeLabWeek1HW/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.codeLabWeek1HW/.idea/contentModel.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +15,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/playerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
+            <state relative-caret-position="645">
               <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
               <folding>
+                <marker date="1548943703774" expanded="false" signature="6:78" ph="..." />
                 <marker date="1548943703774" expanded="true" signature="125:1173" ph="{...}" />
                 <marker date="1548943703774" expanded="true" signature="436:478" ph="{...}" />
                 <marker date="1548943703774" expanded="true" signature="533:1171" ph="{...}" />
@@ -32,12 +33,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/velocityPlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state>
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
+                <marker date="1549835753423" expanded="false" signature="6:78" ph="..." />
                 <marker date="1549835753423" expanded="true" signature="133:3791" ph="{...}" />
                 <marker date="1549835753423" expanded="true" signature="661:758" ph="/* left and right controls are controlled using input.getaxis (see line 29-32) ... */" />
                 <marker date="1549835753423" expanded="true" signature="1406:1456" ph="/* public Vector3 playerPosition; ... */" />
@@ -61,6 +63,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
+                <marker date="1549221010319" expanded="false" signature="6:78" ph="..." />
                 <marker date="1549221010319" expanded="true" signature="127:332" ph="{...}" />
                 <marker date="1549221010319" expanded="true" signature="170:330" ph="{...}" />
                 <marker date="1549221010319" expanded="true" signature="207:301" ph="{...}" />
@@ -72,9 +75,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/badStarController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding>
+                <marker date="1549221055272" expanded="false" signature="6:78" ph="..." />
                 <marker date="1549221055272" expanded="true" signature="126:379" ph="{...}" />
                 <marker date="1549221055272" expanded="true" signature="172:377" ph="{...}" />
                 <marker date="1549221055272" expanded="true" signature="218:333" ph="{...}" />
@@ -83,17 +87,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
               <folding>
-                <marker date="1549994509578" expanded="true" signature="125:1353" ph="{...}" />
-                <marker date="1549994509578" expanded="true" signature="585:606" ph="{...}" />
-                <marker date="1549994509578" expanded="true" signature="664:1351" ph="{...}" />
-                <marker date="1549994509578" expanded="true" signature="965:1088" ph="{...}" />
-                <marker date="1549994509578" expanded="true" signature="1101:1224" ph="{...}" />
+                <marker date="1550079570352" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550079570352" expanded="true" signature="125:1354" ph="{...}" />
+                <marker date="1550079570352" expanded="true" signature="586:607" ph="{...}" />
+                <marker date="1550079570352" expanded="true" signature="665:1352" ph="{...}" />
+                <marker date="1550079570352" expanded="true" signature="966:1089" ph="{...}" />
+                <marker date="1550079570352" expanded="true" signature="1102:1225" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -102,9 +107,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/spawner.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="240">
               <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
               <folding>
+                <marker date="1549834702591" expanded="false" signature="6:78" ph="..." />
                 <marker date="1549834702591" expanded="true" signature="117:833" ph="{...}" />
                 <marker date="1549834702591" expanded="true" signature="167:308" ph="{...}" />
                 <marker date="1549834702591" expanded="true" signature="331:572" ph="{...}" />
@@ -168,12 +174,12 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,6 +254,7 @@
       <workItem from="1549994146066" duration="340000" />
       <workItem from="1550003929878" duration="41000" />
       <workItem from="1550079525051" duration="8000" />
+      <workItem from="1550079546616" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="edited velocityPlayerController script: moved physics into fixedupdate and added jumpTimeCounter">
       <created>1549829860256</created>
@@ -326,11 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549836204411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fixed a comment in cameracontroller script">
+      <created>1550079588366</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550079588366</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25954000" />
+    <option name="totallyTimeSpent" value="26016000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,7 +359,7 @@
     <frame x="56" y="30" width="1153" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18451846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18721873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -390,7 +404,8 @@
     <MESSAGE value="edit spawn range" />
     <MESSAGE value="added more cloud platforms" />
     <MESSAGE value="edited offset for winner/loser text" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited offset for winner/loser text" />
+    <MESSAGE value="fixed a comment in cameracontroller script" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed a comment in cameracontroller script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -411,9 +426,10 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/jumpGravityController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/playerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
+        <state relative-caret-position="645">
           <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
           <folding>
+            <marker date="1548943703774" expanded="false" signature="6:78" ph="..." />
             <marker date="1548943703774" expanded="true" signature="125:1173" ph="{...}" />
             <marker date="1548943703774" expanded="true" signature="436:478" ph="{...}" />
             <marker date="1548943703774" expanded="true" signature="533:1171" ph="{...}" />
@@ -441,9 +457,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/badStarController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
+            <marker date="1549221055272" expanded="false" signature="6:78" ph="..." />
             <marker date="1549221055272" expanded="true" signature="126:379" ph="{...}" />
             <marker date="1549221055272" expanded="true" signature="172:377" ph="{...}" />
             <marker date="1549221055272" expanded="true" signature="218:333" ph="{...}" />
@@ -451,26 +468,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameraController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-          <folding>
-            <marker date="1549994509578" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549994509578" expanded="true" signature="125:1353" ph="{...}" />
-            <marker date="1549994509578" expanded="true" signature="585:606" ph="{...}" />
-            <marker date="1549994509578" expanded="true" signature="664:1351" ph="{...}" />
-            <marker date="1549994509578" expanded="true" signature="965:1088" ph="{...}" />
-            <marker date="1549994509578" expanded="true" signature="1101:1224" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/spawner.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="240">
           <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
           <folding>
+            <marker date="1549834702591" expanded="false" signature="6:78" ph="..." />
             <marker date="1549834702591" expanded="true" signature="117:833" ph="{...}" />
             <marker date="1549834702591" expanded="true" signature="167:308" ph="{...}" />
             <marker date="1549834702591" expanded="true" signature="331:572" ph="{...}" />
@@ -481,9 +484,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/velocityPlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state>
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
+            <marker date="1549835753423" expanded="false" signature="6:78" ph="..." />
             <marker date="1549835753423" expanded="true" signature="133:3791" ph="{...}" />
             <marker date="1549835753423" expanded="true" signature="661:758" ph="/* left and right controls are controlled using input.getaxis (see line 29-32) ... */" />
             <marker date="1549835753423" expanded="true" signature="1406:1456" ph="/* public Vector3 playerPosition; ... */" />
@@ -497,6 +501,21 @@
             <marker date="1549835753423" expanded="true" signature="3278:3404" ph="/* adding gravity force when player falls after jumping (referred to youtube tutorial) ... */" />
             <marker date="1549835753423" expanded="true" signature="3435:3556" ph="{...}" />
             <marker date="1549835753423" expanded="true" signature="3659:3783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding>
+            <marker date="1550079570352" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550079570352" expanded="true" signature="125:1354" ph="{...}" />
+            <marker date="1550079570352" expanded="true" signature="586:607" ph="{...}" />
+            <marker date="1550079570352" expanded="true" signature="665:1352" ph="{...}" />
+            <marker date="1550079570352" expanded="true" signature="966:1089" ph="{...}" />
+            <marker date="1550079570352" expanded="true" signature="1102:1225" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -33,7 +33,8 @@ public class cameraController : MonoBehaviour
            playerPosition = new Vector3(playerPosition.x, playerPosition.y - offsetY, playerPosition.z);
        }
 
-       transform.position = Vector3.Lerp(transform.position, playerPosition, offsetSmoothing * Time.deltaTime);
-       
+       //transform.position = Vector3.Lerp(transform.position, playerPosition, offsetSmoothing * Time.deltaTime);
+       transform.position = Vector3.Lerp(transform.position, playerPosition, offsetSmoothing); //got rid of deltaTime to create lerp "slide" camera effect
+       //in main camera, change offsetSmoothing from 10 to around 0.1-ish
     }
 }
