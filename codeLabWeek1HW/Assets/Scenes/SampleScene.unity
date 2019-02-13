@@ -1082,7 +1082,7 @@ MonoBehaviour:
   player: {fileID: 1750990143}
   offsetY: 1
   playerPosition: {x: 0, y: 0, z: 0}
-  offsetSmoothing: 10
+  offsetSmoothing: 0.1
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
