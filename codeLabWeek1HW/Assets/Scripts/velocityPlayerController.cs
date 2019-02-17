@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class velocityPlayerController : MonoBehaviour
+public class VelocityPlayerController : MonoBehaviour
 {
     private Rigidbody2D rb;
     

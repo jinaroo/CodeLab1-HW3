@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class goodStarController : MonoBehaviour
+public class GoodStarController : MonoBehaviour
 {
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		if (other.CompareTag("Player"))
 		{
-			other.gameObject.GetComponent<velocityPlayerController>().score++; //score goes up
+			other.gameObject.GetComponent<VelocityPlayerController>().score++; //score goes up
 		}
 		
 		Destroy(gameObject);
